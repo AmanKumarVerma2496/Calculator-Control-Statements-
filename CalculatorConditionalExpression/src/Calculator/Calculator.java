@@ -5,7 +5,7 @@ public class Calculator {
 
 	public static void main(String[] args) //Main Method 
 	{
-		System.out.println("==========Arithmetric Operations========"); 
+		System.out.println("==========Arithmetic Operations========"); 
 		 
 		double n1,n2,choice,calculate;//initializing the variables 
 		Scanner Aman = new Scanner(System.in);//Scanner class is build up library for user input  and Aman is just object of Scanner class
